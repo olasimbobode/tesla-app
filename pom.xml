@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>tesla-uat</finalName>
+		<finalName>ola-downstream</finalName>
 		
 		<plugins>
 			<plugin>
